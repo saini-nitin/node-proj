@@ -1,0 +1,50 @@
+{
+	"name" : "Nitin Saini",
+	"about" : "I am a software engineer from Mumbai working in Infosys, Mysore. This website is a platform to demonstrate what I have learned through my experience in AngularJs, HTML, Bootstrap, Google Cloud Platform, Ajax, CSS. This website is hosted using Google cloud platform on Google's app engine server for Node.js. This page includes libraries like angularjs  Version: 1.6, angular-route  Version: 1.4 , angular-chart.js , Chart.js  Version: 2.3.0. The feedback form on this page uses Node.js as backend service and MongoDB to store the data. Please provide your valuable feedback. I have used www.godaddy.com to get my domain name which is pointing to my node-project deployed in google's app engine. Coming soon - YouTube channel with tutorials on technolgies like AngularJs, Node.js, Google cloud platform, Bitnami etc.",
+	"acads" : [
+		{"id" :"Fisrt Year Engineering (Mumbai University)","value":"72"},
+		{"id" :"Second Year Engineering (Mumbai University)","value":"73"},
+		{"id" :"Third Year Engineering (Mumbai University)","value":"71"},
+		{"id" :"Final Year Engineering (Mumbai University)","value":"72"},
+		{"id" :"12th (CBSE)","value":"82"},
+		{"id" :"SSC (Maharashtra State Board)","value":"88"}
+	 ],
+	"workExperience" : [
+		{"id" :"AnguarJs","value":"15"},
+		{"id" :"Java","value":"16"},
+		{"id" :"Web services","value":"15"},
+		{"id" :"JavaScript","value":"15"},
+		{"id" :"HTML & CSS","value":"15"},
+		{"id" :"Agile","value":"15"},
+		{"id" :"Bootstrap","value":"15"},
+		{"id" :"Python","value":"2"},
+		{"id" :"SQL","value":"3"},
+		{"id" :"Unix","value":"1"}
+	 ],
+	 "skills" : [
+		{"id" :"AnguarJs 1.x","value":"5"},
+		{"id" :"JavaScript","value":"5"},
+		{"id" :"HTML & CSS","value":"5"},
+		{"id" :"Agile","value":"5"},
+		{"id" :"Bootstrap","value":"4"},
+		{"id" :"Java","value":"4"},
+		{"id" :"Web services","value":"4"},
+		{"id" :"Putty","value":"4"},
+		{"id" :"Weblogic Server","value":"4"},
+		{"id" :"Windows OS","value":"4"},
+		{"id" :"MacOS","value":"4"},
+		{"id" :"Python","value":"3"},
+		{"id" :"SQL","value":"3"},
+		{"id" :"Unix","value":"3"},
+		{"id" :"SOAP UI","value":"3"},
+		{"id" :"Node.js","value":"3"},
+		{"id" :"Express","value":"3"},
+		{"id" :"Gulp","value":"3"},
+		{"id" :"Amazon web services","value":"3"},
+		{"id" :"Google Cloud Platform","value":"3"}	
+	],
+	"contact" : {
+		"email" : "saini.nitti@gmail.com",
+		"mobile" : "+91 9920080726"
+		}
+}

@@ -1,0 +1,18 @@
+<div class="row">
+	<div class="col-md-12">
+	<!-- <flash-message duration="5000" show-close="true">
+    	<div class="my-flash">{{feedbackSuccessMsg}}</div>
+    </flash-message>  -->
+       <flash-message duration="5000"></flash-message>
+		<div class="col-md-5 homeBoxSize boxStyle">{{about}}</div>
+		<br>		
+		<div class="col-md-5 boxStyle">
+<!-- 			<img src="./img/nitin_resume.png">
+ -->		<h4 class="pad fleft">Feedback data</h4>
+ 			<b class="pad fright">Feedback count: {{feedbackCount}}</b>
+			<canvas id="pie" class="chart chart-pie" chart-data="data"
+					chart-labels="labels">
+			</canvas>
+		</div>
+	</div>
+</div>
